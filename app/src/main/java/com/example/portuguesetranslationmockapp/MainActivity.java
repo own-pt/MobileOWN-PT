@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if (isChecked) {
                     searchOption = String.valueOf(searchOptions.PRIORITY);
-                    System.out.println("Search Option changed to: " + searchOption);
+                    // System.out.println("Search Option changed to: " + searchOption);
                     if (translationOption.equals(String.valueOf(translationOptions.PT_TO_EN))) {
                         subtitle.setText(getResources().getString(R.string.recommend_translation_description_pt));
                     } else  {
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     }
                 } else {
                     searchOption = String.valueOf(searchOptions.VANILLA);
-                    System.out.println("Search Option changed to: " + searchOption);
+                    // System.out.println("Search Option changed to: " + searchOption);
                     if (translationOption.equals(String.valueOf(translationOptions.PT_TO_EN))) {
                         subtitle.setText(getResources().getString(R.string.recommend_translation_description_vanilla_pt));
                     } else  {
