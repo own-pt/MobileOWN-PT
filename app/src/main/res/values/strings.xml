@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Portuguese Translation Mock App</string>
+
+    <string name="word_not_find">Unable to find any proper translation for the given word</string>
+    <string name="word_not_find_pt">Incapaz de encontrar qualquer tradução adequada para a palavra dada</string>
+
+    <string name="recommend_translation_description_vanilla">Translated Results (Native Search):\nThe top valid and non-empty search results</string>
+    <string name="recommend_translation_description_vanilla_pt">Resultados Traduzidos (Pesquisa Nativa):\nos principais resultados de pesquisa válidos e não vazios</string>
+    
+    <string name="recommend_translation_description">Translated Results (Priority Search):\nFrom most recommended to least recommended</string>
+    <string name="recommend_translation_description_pt">Resultados Traduzidos (Pesquisa Prioritária):\ndo mais recomendado ao menos recomendado</string>
+    
+    <string name="en_pt"><![CDATA[EN->PT]]></string>
+    <string name="pt_en"><![CDATA[PT->EN]]></string>
+    
+    <string name="native_search">Native Search</string>
+    <string name="priority_search">Priority Search</string>
+    
+    <string name="native_search_pt">Pesquisa Nativa</string>
+    <string name="priority_search_pt">Pesquisa Prioritária</string>
+    
+    <string name="enter_text">Enter Text</string>
+    <string name="translate">Translate</string>
+    <string name="openwordnet_pt">OpenWordnet-PT</string>
+
+    <string name="enter_text_pt">Digite o texto</string>
+    <string name="translate_pt">traduzir</string>
+</resources>

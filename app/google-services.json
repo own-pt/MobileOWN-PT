@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106933229254",
+    "firebase_url": "https://ptmock-v2.firebaseio.com",
+    "project_id": "ptmock-v2",
+    "storage_bucket": "ptmock-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106933229254:android:d7effa915d91abe0",
+        "android_client_info": {
+          "package_name": "com.example.portuguesetranslationmockapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106933229254-r7qjhhr4jb2h2neohmidojefi8dmuj8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZbsLzEl4PrRLeLgPZya8Hi-wf_ZTqiWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106933229254-r7qjhhr4jb2h2neohmidojefi8dmuj8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
